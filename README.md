@@ -1,9 +1,3 @@
-# Tutorials
+# Regression Tutorial
 
-This is a series of straight-forward machine learning and nlp tutorials covering the following topics:
-
-- Regression
-- Clustering
-- Decision Trees
-- SVMs
-- Text preprocessing
+Straight-forward statistical machine learning tutorial on the topic of simple and multiple regression.
